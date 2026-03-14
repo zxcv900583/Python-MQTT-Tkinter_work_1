@@ -31,7 +31,7 @@ class DashboardApp:
         self.root.geometry("800x740")  
         self.root.configure(bg="#1a1a1a") 
 
-        self.discord_webhook_url = "https://discord.com/api/webhooks/1479511939666153647/ZUNGk0_42Z6VO-xeWaBfQ_lQhDh9QRXBs3f_h1zJHVIt-vl6-Xrk-EL3TV3Sk9yT3kN0"
+        self.discord_webhook_url = "................your discord webhook URL..............."
         self.last_discord_send_time = 0  
         self.discord_interval = 20       
 
