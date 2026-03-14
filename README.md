@@ -17,8 +17,4 @@
 * **Paho-MQTT**: MQTT 客戶端連線
 * **Requests**: Discord Webhook API 呼叫
 
-## 📦 安裝與執行
-
-1. **複製此倉庫**：
-   ```bash
-   git clone [https://github.com/zxcv900583/Python-MQTT-Tkinter_work_1.git](https://github.com/zxcv900583/Python-MQTT-Tkinter_work_1.git)
+搭配Wokwi線上模擬ESP32 https://wokwi.com/projects/458298760556964865
